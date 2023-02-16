@@ -23,7 +23,6 @@ class Vector:
 
 
 if __name__ == '__main__':
-    gosia_przychod = 32808.34
     v1 = Vector(2, 5)
     v2 = Vector(42, -17)
 
